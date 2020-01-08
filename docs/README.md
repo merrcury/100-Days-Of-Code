@@ -27,3 +27,11 @@
 **Thoughts** : Why I haven't tried this out before?
 
 **Link of Work** : [Day_2.ipynb](https://github.com/merrcury/100-Days-Of-ML/blob/master/code/Day_2.ipynb)
+
+## Day 3 : January 08, 2018
+
+**Today's Progress** : I work on time-series data a lot and generally follow the approach of lots of tests and ARIMA & SARIMA. A Project is coming my way with Time Series Analysis. So, I thought of giving Facebook Prophet a test drive. I have done a simple Stock Forecasting & Cross-Validation on same. I am neutral about results because Results are just good enough without tunning. 
+
+**Thoughts** : Facebook's Prophet seems pretty good. I guess It can save me the significant time of test and re-modelling data for ARIMA. 
+
+**Link of Work** : [Day_3.ipynb](https://github.com/merrcury/100-Days-Of-ML/blob/master/code/Day_3.ipynb)
