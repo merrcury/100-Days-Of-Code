@@ -18,7 +18,7 @@
 
 **Book Link** : [Amazon India](https://amzn.to/39IDswT), [Amazon US](https://amzn.to/37IrCAO)
 
-## Day 2: January 07, 2018
+## Day 2 : January 07, 2018
 
 **Today's Progress** : 
 + Started with some famous algorithms of H2O and tried to learn what they bring extra to the plate.
