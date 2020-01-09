@@ -35,3 +35,16 @@
 **Thoughts** : Facebook's Prophet seems pretty good. I guess It can save me the significant time of test and re-modelling data for ARIMA. 
 
 **Link of Work** : [Day_3.ipynb](https://github.com/merrcury/100-Days-Of-ML/blob/master/code/Day_3.ipynb)
+
+## Day 4 : January 09, 2018
+
+**Today's Progress** :  
++ Today, I contributed to Facebook's Prophet by opening a Pull Request. 
++ I have started working on a Machine Learning Challenge released by HackerEarth. 
++ I have achieved the score of 85.81337 & stands in Top 10, on Day-1 of Challenge. 
+
+**Thoughts** : HackerEarth challenges are good for Intermediate and I hope to remain at Top by end of challenge. 
+
+**Link of Work** : I'll be uploading my competition work after competition got over. 
+
+**Link of Challenge** : [Calculate the severity of an airplane accident](https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/)
