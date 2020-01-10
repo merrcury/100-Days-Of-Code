@@ -48,3 +48,9 @@
 **Link of Work** : I'll be uploading my competition work after competition got over. 
 
 **Link of Challenge** : [Calculate the severity of an airplane accident](https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/)
+
+## Day 5 : January 10, 2018
+
+**Today's Progress** : I did some Visualization & Cleaning of Dataset for HackerEarth ML Challenge and resumed by H2O learning.
+
+**Thoughts** : How about using H2O for this challenge? I guess, I'll implement H2O this time. 
