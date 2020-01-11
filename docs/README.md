@@ -54,3 +54,11 @@
 **Today's Progress** : I did some Visualization & Cleaning of Dataset for HackerEarth ML Challenge and resumed by H2O learning.
 
 **Thoughts** : How about using H2O for this challenge? I guess, I'll implement H2O this time. 
+
+## Day 6 : January 11, 2018
+
+**Today's Progress** : 
++ I am a Hackathon Enthusiast and Smart India Hackathon is coming. So, I started working on ideation of that. In which, I am learning to deploy Machine Learning model for automation.
++ In HackerEarth Challenge, I am not getting significant changes in score with GBM. So, I started my journey of Stacked Ensemble.
+
+**Thoughts** : SIH brought too much to plate. I need to up my game now.
