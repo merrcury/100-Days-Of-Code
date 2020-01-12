@@ -62,3 +62,11 @@
 + In HackerEarth Challenge, I am not getting significant changes in score with GBM. So, I started my journey of Stacked Ensemble.
 
 **Thoughts** : SIH brought too much to plate. I need to up my game now.
+
+## Day 7 : January 12, 2018
+
+**Today's Progress** : 
++ After weeks of research, I finally submitted a project proposal for a hackathon
++ I am still figuring out how a Stacked Ensemble work mathematically
+
+**Thoughts** : At one point in ML, We think situation is under control but in next minute, It isn't. 
