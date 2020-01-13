@@ -70,3 +70,15 @@
 + I am still figuring out how a Stacked Ensemble work mathematically
 
 **Thoughts** : At one point in ML, We think situation is under control but in next minute, It isn't. 
+
+**Thoughts** : SIH brought too much to plate. I need to up my game now.
+
+## Day 8 : January 13, 2018
+
+**Today's Progress** : 
++ Discussing Ideas related to SIH. 
++ Cleared a person's query on Facebook Dev Group regarding ML & created a kaggle notebook for same.
+
+**Thoughts** : Research & Data Building is part of Data Science and doing same has its own challenge and I am delighted to do it for my team. 
+
+**Link of Work** : [Kaggle_Notebook](https://www.kaggle.com/mercurybuddy/bank-note-auth-using-automl)
