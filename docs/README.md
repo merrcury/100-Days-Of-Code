@@ -6,7 +6,7 @@
 
 **Thoughts** : Hope this will be inspiring, will help me in learning Machine Learning on Big Data more efficiently.
 
-## Day 1 : January 06, 2018
+## Day 1 : January 06, 2020
 
 **Today's Progress** : 
 + Started of My Journey with Book "Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI" By "Darren Cook".  
@@ -18,7 +18,7 @@
 
 **Book Link** : [Amazon India](https://amzn.to/39IDswT), [Amazon US](https://amzn.to/37IrCAO)
 
-## Day 2 : January 07, 2018
+## Day 2 : January 07, 2020
 
 **Today's Progress** : 
 + Started with some famous algorithms of H2O and tried to learn what they bring extra to the plate.
@@ -28,7 +28,7 @@
 
 **Link of Work** : [Day_2.ipynb](https://github.com/merrcury/100-Days-Of-ML/blob/master/code/Day_2.ipynb)
 
-## Day 3 : January 08, 2018
+## Day 3 : January 08, 2020
 
 **Today's Progress** : I work on time-series data a lot and generally follow the approach of lots of tests and ARIMA & SARIMA. A Project is coming my way with Time Series Analysis. So, I thought of giving Facebook Prophet a test drive. I have done a simple Stock Forecasting & Cross-Validation on same. I am neutral about results because Results are just good enough without tunning. 
 
@@ -36,7 +36,7 @@
 
 **Link of Work** : [Day_3.ipynb](https://github.com/merrcury/100-Days-Of-ML/blob/master/code/Day_3.ipynb)
 
-## Day 4 : January 09, 2018
+## Day 4 : January 09, 2020
 
 **Today's Progress** :  
 + Today, I contributed to Facebook's Prophet by opening a Pull Request. 
@@ -49,13 +49,13 @@
 
 **Link of Challenge** : [Calculate the severity of an airplane accident](https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/)
 
-## Day 5 : January 10, 2018
+## Day 5 : January 10, 2020
 
 **Today's Progress** : I did some Visualization & Cleaning of Dataset for HackerEarth ML Challenge and resumed by H2O learning.
 
 **Thoughts** : How about using H2O for this challenge? I guess, I'll implement H2O this time. 
 
-## Day 6 : January 11, 2018
+## Day 6 : January 11, 2020
 
 **Today's Progress** : 
 + I am a Hackathon Enthusiast and Smart India Hackathon is coming. So, I started working on ideation of that. In which, I am learning to deploy Machine Learning model for automation.
@@ -63,7 +63,7 @@
 
 **Thoughts** : SIH brought too much to plate. I need to up my game now.
 
-## Day 7 : January 12, 2018
+## Day 7 : January 12, 2020
 
 **Today's Progress** : 
 + After weeks of research, I finally submitted a project proposal for a hackathon
@@ -73,7 +73,7 @@
 
 **Thoughts** : SIH brought too much to plate. I need to up my game now.
 
-## Day 8 : January 13, 2018
+## Day 8 : January 13, 2020
 
 **Today's Progress** : 
 + Discussing Ideas related to SIH. 
