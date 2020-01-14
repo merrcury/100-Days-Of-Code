@@ -82,3 +82,9 @@
 **Thoughts** : Research & Data Building is part of Data Science and doing same has its own challenge and I am delighted to do it for my team. 
 
 **Link of Work** : [Kaggle_Notebook](https://www.kaggle.com/mercurybuddy/bank-note-auth-using-automl)
+
+## Day 9 : January 14, 2020
+
+**Today's Progress** : Helping out people in tackling Machine Learning Problems. Helped out a person from LinkedIn. 
+
+**Thoughts** : These 10 days passed very swiftly. 
