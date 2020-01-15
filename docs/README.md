@@ -88,3 +88,9 @@
 **Today's Progress** : Helping out people in tackling Machine Learning Problems. Helped out a person from LinkedIn. 
 
 **Thoughts** : These 10 days passed very swiftly. 
+
+## Day 10 : January 15, 2020
+
+**Today's Progress** : Updated code of some Older Projects.  
+
+**Thoughts** : You learn new techniques & find your older code is a mess. 
