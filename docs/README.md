@@ -94,3 +94,9 @@
 **Today's Progress** : Updated code of some Older Projects.  
 
 **Thoughts** : You learn new techniques & find your older code is a mess. 
+
+## Day 11 : January 16, 2020
+
+**Today's Progress** : You complete what you start, completing the updation.   
+
+**Thoughts** : I should follow style guidelines from now.
