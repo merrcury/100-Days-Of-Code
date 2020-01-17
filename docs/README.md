@@ -100,3 +100,9 @@
 **Today's Progress** : You complete what you start, completing the updation.   
 
 **Thoughts** : I should follow style guidelines from now.
+
+## Day 12 : January 17, 2020
+
+**Today's Progress** : I resumed my work for HackerEarth Challenge.
+
+**Thoughts** : Tomorrow, I have an developing assignment & I'm looking forward to it. 
