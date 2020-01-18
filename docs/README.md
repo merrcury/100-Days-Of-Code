@@ -106,3 +106,9 @@
 **Today's Progress** : I resumed my work for HackerEarth Challenge.
 
 **Thoughts** : Tomorrow, I have an developing assignment & I'm looking forward to it. 
+
+## Day 13 : January 18, 2020
+
+**Today's Progress** : I have completed my assignment in a day which was supposed to go for like 3 days. I learned about using multiple Social Media API service. 
+
+**Thoughts** : Coded for like 8 hour continuously. Now, I am going to sleep. 
