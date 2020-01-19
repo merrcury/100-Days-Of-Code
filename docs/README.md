@@ -111,4 +111,10 @@
 
 **Today's Progress** : I have completed my assignment in a day which was supposed to go for like 3 days. I learned about using multiple Social Media API service. 
 
-**Thoughts** : Coded for like 8 hour continuously. Now, I am going to sleep. 
+**Thoughts** : Coded for like 8 hour continuously. Now, I am going to sleep.
+
+## Day 14 : January 19, 2020
+
+**Today's Progress** : The assignment I completed yesterday. Today, I spent four hours on foum to answering queries of fellow participants.
+
+**Thoughts** : Solving Queries of other gives emense pleasure. College starts from tomorrow. 
