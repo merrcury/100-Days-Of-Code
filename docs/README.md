@@ -118,3 +118,9 @@
 **Today's Progress** : The assignment I completed yesterday. Today, I spent four hours on foum to answering queries of fellow participants.
 
 **Thoughts** : Solving Queries of other gives emense pleasure. College starts from tomorrow. 
+
+## Day 15 : January 20, 2020
+
+**Today's Progress** : Spent over 2 hours on forum helping people getting things right.
+
+**Thoughts** : Schedule became tight due to College.  
