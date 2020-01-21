@@ -124,3 +124,9 @@
 **Today's Progress** : Spent over 2 hours on forum helping people getting things right.
 
 **Thoughts** : Schedule became tight due to College.  
+
+## Day 16 : January 21, 2020
+
+**Today's Progress** : Spent my time studying H2O.
+
+**Thoughts** : I need to start working for upcoming hackathon now.
