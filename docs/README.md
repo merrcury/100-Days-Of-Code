@@ -130,3 +130,11 @@
 **Today's Progress** : Spent my time studying H2O.
 
 **Thoughts** : I need to start working for upcoming hackathon now.
+
+## Day 17 : January 22, 2020
+
+**Today's Progress** : I coded and contributed to opensource a lot today. I have added githb actions and apps to my previous and ongoing projects. I have increased standards for CursAR's(My AR APP) Repository for open source contribution. Me & My time thinking of putting CursAR in [GSSOC'20](https://www.gssoc.tech/)
+
+**Thoughts** : I am feeling tired but I guess hard work will pay off. 
+
+**Link Of Work** : [CursAR](https://github.com/merrcury/CursAR)
