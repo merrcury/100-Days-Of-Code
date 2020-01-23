@@ -138,3 +138,11 @@
 **Thoughts** : I am feeling tired but I guess hard work will pay off. 
 
 **Link Of Work** : [CursAR](https://github.com/merrcury/CursAR)
+
+## Day 18 : January 23, 2020
+
+**Today's Progress** : 
++ Maintained Some old projects on github.
++ I started about Continuous Integration & Continuous Deliverability. 
+
+**Thoughts** : Automation save precious team. 
