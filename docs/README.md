@@ -146,3 +146,14 @@
 + I started about Continuous Integration & Continuous Deliverability. 
 
 **Thoughts** : Automation save precious team. 
+
+## Day 19 : January 24, 2020
+
+**Today's Progress** : 
++ Completed 20% of 100 Days of Code. 
++ The Challenge I took last week. Due to my performance, I have been Teaching Assistant in that Program. 
++ I continued about my approach of CI & CD in DevOps. 
+
+**Thoughts** : TA is new a challenge. Looking forward to excel it. 
+
+**LinkedIn Profile**: [linkedin/garg-himanshu](https://www.linkedin.com/in/garg-himanshu/)
