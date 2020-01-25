@@ -157,3 +157,9 @@
 **Thoughts** : TA is new a challenge. Looking forward to excel it. 
 
 **LinkedIn Profile**: [linkedin/garg-himanshu](https://www.linkedin.com/in/garg-himanshu/)
+
+## Day 20 : January 25, 2020
+
+**Today's Progress** : I had contributed for like 12 hours to my TA job today. Its been a hectic day.
+
+**Thoughts** : I am too tired to write this. :tired_face:
