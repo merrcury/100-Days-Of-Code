@@ -162,4 +162,13 @@
 
 **Today's Progress** : I had contributed for like 12 hours to my TA job today. Its been a hectic day.
 
-**Thoughts** : I am too tired to write this. :tired_face:
+**Thoughts** : I am too tired to write this.
+
+## Day 21 : January 26, 2020
+
+**Today's Progress** : 
++ I had contributed for like 8 hours on my TA Job. 
++ I have found faulty codes and issues. 
++ I have also caught Plagiarism too. 
+
+**Thoughts** : I am working with all my knowledge and will continue to do so. Maybe this will pay off well. 
