@@ -172,3 +172,9 @@
 + I have also caught Plagiarism too. 
 
 **Thoughts** : I am working with all my knowledge and will continue to do so. Maybe this will pay off well. 
+
+## Day 22 : January 27, 2020
+
+**Today's Progress** : Made couple of flow charts & UML Diagrams. Explored Some more Github Apps. 
+
+**Thoughts** : UML Diagrams gives prespective to your thoughts. 
