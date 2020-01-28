@@ -178,3 +178,13 @@
 **Today's Progress** : Made couple of flow charts & UML Diagrams. Explored Some more Github Apps. 
 
 **Thoughts** : UML Diagrams gives prespective to your thoughts. 
+
+## Day 23 : January 28, 2020
+
+**Today's Progress** : 
++ Fixed Bugs in CursAR. 
++ Built New UI Schema for CursAR. 
++ Created Material for SIH. 
++ Studied about GPG Keys. 
+
+**Thoughts** : Competiton for CursAR is increasing Day by Day. We have to done something, really quick. 
