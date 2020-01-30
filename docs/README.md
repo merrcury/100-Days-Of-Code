@@ -188,3 +188,16 @@
 + Studied about GPG Keys. 
 
 **Thoughts** : Competiton for CursAR is increasing Day by Day. We have to done something, really quick. 
+
+## Day 24 : January 29, 2020
+
+**Today's Progress** : Testing is an important part of developing. So, I wrote some unit test for my existing projects. 
+
+**Thoughts** : No More trolling of testers. 
+**I was having fever. So, I forgot to log it on Jan 29, 2020. 
+
+## Day 25 : January 30, 2020
+
+**Today's Progress** : I played around with firebase cli and security updates of my app. I am also exploring GitHub more extensively. 
+
+**Thoughts** : There are some wonderful github features which I was unaware of. 
