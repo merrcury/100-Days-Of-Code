@@ -248,3 +248,9 @@
 + Successfully participated in Internal Hackathon of SIH. 
 
 **Thoughts** : I am tired and ready for new challenges. 
+
+## Day 32 : Feburary 6, 2020
+
+**Today's Progress** : I started working on the idea we have submitted in the SIH Internal Hackathon. It is related to Geo-Sat Images.
+
+**Thoughts** : Geo-Sat images are not everybody's cup of tea. 
