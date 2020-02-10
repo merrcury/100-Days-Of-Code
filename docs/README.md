@@ -262,3 +262,11 @@
 + I have resumed my work on cli. 
 
 **Thoughts** : CLI is better than GUI. 
+
+## Day 34 : Feburary 8, 2020
+
+**Today's Progress** : 
++ Its time for crio launch. Crio Launch is an online learning. 
++ I worked on the basic of vsftpd and bash. 
+
+**Thoughts** : VSFTPD is insane. 
