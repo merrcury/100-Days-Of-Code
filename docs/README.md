@@ -239,3 +239,12 @@
 + I coded while sitting in the Mall. I guess I was none less than the tourist attraction. 
 
 **Thoughts** : Time to go back home. 
+
+## Day 31 : Feburary 5, 2020
+
+**Today's Progress** : 
++ Reached My College at about 3 AM in the morning. It's chilling outside. 
++ I coded for a while in python on a cli project. 
++ Successfully participated in Internal Hackathon of SIH. 
+
+**Thoughts** : I am tired and ready for new challenges. 
