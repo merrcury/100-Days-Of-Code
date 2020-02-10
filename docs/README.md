@@ -229,4 +229,13 @@
 + Travelled some 100 KMS to a city of Tibetan Culture, Mcleodganj. 
 + I am focusing on Unity & C# for upcoming days. 
 
-**Thoughts** : Its a wondeful feeling of coding in mountains. 
+**Thoughts** : Its a wondeful feeling of coding in mountains.
+
+## Day 30 : Feburary 4, 2020
+
+**Today's Progress** : 
++ I am on vacation because I love my occupation. 
++ Cricket fan. So, I visited the HPCA Cricket Staium. This is nothing less than heaven. 
++ I coded while sitting in the Mall. I guess I was none less than the tourist attraction. 
+
+**Thoughts** : Time to go back home. 
