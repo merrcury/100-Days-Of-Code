@@ -207,3 +207,9 @@
 **Today's Progress** : Travelled almost 300+ Kilometers to reach my destination and work place for next couple of days. Tomorrow is hackathon and I did C# today. 
 
 **Thoughts** : Every Hackathon is a new experience. 
+
+## Day 27 : Feburary 1, 2020
+
+**Today's Progress** : The Day of Hackathon is what I love. Cups of coffee is changed into code. Worked on the UI of the APP. 
+
+**Thoughts** : Hackathons are tiring and Day_0 of Hackathon comes to an end. 
