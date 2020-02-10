@@ -276,3 +276,9 @@
 **Today's Progress** : I continued my journey of learning VSFTPD. I was able to deploy the VSFTPD server.  
 
 **Thoughts** : VSFTPD stands for Very Secure File Transfer Protocol Deamon and I started loving it. 
+
+## Day 36 : Feburary 10, 2020
+
+**Today's Progress** : Today, I am offically starting my journey of learning RedHat 8. I have cleared my basic concepts of OS. 
+
+**Thoughts** : Although I use ubuntu, which is debian based linux. I always loved RedHat. I guess I'll be soon migrating to fedora. 
