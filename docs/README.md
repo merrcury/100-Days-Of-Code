@@ -254,3 +254,11 @@
 **Today's Progress** : I started working on the idea we have submitted in the SIH Internal Hackathon. It is related to Geo-Sat Images.
 
 **Thoughts** : Geo-Sat images are not everybody's cup of tea. 
+
+## Day 33 : Feburary 7, 2020
+
+**Today's Progress** : 
++ Its friday & I was bit relaxed beacuse Now I can take control of my life. 
++ I have resumed my work on cli. 
+
+**Thoughts** : CLI is better than GUI. 
