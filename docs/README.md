@@ -270,3 +270,9 @@
 + I worked on the basic of vsftpd and bash. 
 
 **Thoughts** : VSFTPD is insane. 
+
+## Day 35 : Feburary 9, 2020
+
+**Today's Progress** : I continued my journey of learning VSFTPD. I was able to deploy the VSFTPD server.  
+
+**Thoughts** : VSFTPD stands for Very Secure File Transfer Protocol Deamon and I started loving it. 
