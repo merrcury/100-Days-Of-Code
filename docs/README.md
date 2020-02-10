@@ -213,3 +213,11 @@
 **Today's Progress** : The Day of Hackathon is what I love. Cups of coffee is changed into code. Worked on the UI of the APP. 
 
 **Thoughts** : Hackathons are tiring and Day_0 of Hackathon comes to an end. 
+
+## Day 2 : Feburary 2, 2020
+
+**Today's Progress** : 
++ Unable to win the hackathon but very much delighted to placed in TOP 9 from 100 Teams and got appreciated by Representative from Mozilla.  
++ Worked on new functonality of instant fetching of 3D Model. Unable to achieve it.
+
+**Thoughts** : Hackathons Ends & We still got a long way. 
