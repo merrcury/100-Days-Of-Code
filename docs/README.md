@@ -201,3 +201,9 @@
 **Today's Progress** : I played around with firebase cli and security updates of my app. I am also exploring GitHub more extensively. 
 
 **Thoughts** : There are some wonderful github features which I was unaware of. 
+
+## Day 26 : January 31, 2020
+
+**Today's Progress** : Travelled almost 300+ Kilometers to reach my destination and work place for next couple of days. Tomorrow is hackathon and I did C# today. 
+
+**Thoughts** : Every Hackathon is a new experience. 
