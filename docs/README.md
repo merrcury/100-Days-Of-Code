@@ -282,3 +282,11 @@
 **Today's Progress** : Today, I am offically starting my journey of learning RedHat 8. I have cleared my basic concepts of OS. 
 
 **Thoughts** : Although I use ubuntu, which is debian based linux. I always loved RedHat. I guess I'll be soon migrating to fedora. 
+
+## Day 37 : Feburary 11, 2020
+
+**Today's Progress** : 
++ Attended another lecture of Redhat. Learned how to write your own linux commands. 
++ Read about Cookies extraction and manipulation. 
+
+**Thoughts** : Cookies manipulation is freaking amazing. 
