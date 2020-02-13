@@ -298,3 +298,12 @@
 + Getting back to Unity.
 
 **Thoughts** : Redesigning something is more tougher than first time implementation. 
+
+## Day 39 : Feburary 13, 2020
+
+**Today's Progress** : 
++ Attended another lecture of Redhat.
++ Worked on problem of Crio Launch. 
++ Spent my time helping my friend using team viewer. 
+
+**Thoughts** : It's feels awesome after completing 40 Days. 
