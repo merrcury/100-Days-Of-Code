@@ -290,3 +290,11 @@
 + Read about Cookies extraction and manipulation. 
 
 **Thoughts** : Cookies manipulation is freaking amazing. 
+
+## Day 38 : Feburary 12, 2020
+
+**Today's Progress** : 
++ Attended another lecture of Redhat. Mostly of it was about networking.
++ Getting back to Unity.
+
+**Thoughts** : Redesigning something is more tougher than first time implementation. 
