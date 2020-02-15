@@ -307,3 +307,12 @@
 + Spent my time helping my friend using team viewer. 
 
 **Thoughts** : It's feels awesome after completing 40 Days. 
+
+## Day 40 : Feburary 14, 2020
+
+**Today's Progress** : 
++ Attended another lecture of Redhat.
++ Finally Configured Workstation(Dell Precision 5820) for work at college. 
++ Day spent in studying networking concept. 
+
+**Thoughts** : Workstation feels blazing fast. 
