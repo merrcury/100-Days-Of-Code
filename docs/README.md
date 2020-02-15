@@ -316,3 +316,11 @@
 + Day spent in studying networking concept. 
 
 **Thoughts** : Workstation feels blazing fast. 
+
+# Day 41 : Feburary 15, 2020
+
+**Today's Progress** : 
++ Day Started off with preparing resume at applying in an internship. 
++ Spent 4 hours on Crio Launch Program.   
+
+**Thoughts** : Crio Launch is one of best program in the country.  
