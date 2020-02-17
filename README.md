@@ -1,6 +1,5 @@
-# 100-Days-Of-ML
-Progress of #100DaysOfMachineLearning
+# 100-Days-Of-Code
 
-I am undertaking 100-Days-Of-Code in my way of 100-Days-Of-MachineLearning. 
+I am undertaking 100-Days-Of-Code
 
-My progress can be viewed over [here](https://merrcury.github.io/100-Days-Of-ML) :computer:.
+My progress can be viewed over [here](https://merrcury.github.io/100-Days-Of-Code) :computer:.
