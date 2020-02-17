@@ -324,3 +324,11 @@
 + Spent 4 hours on Crio Launch Program.   
 
 **Thoughts** : Crio Launch is one of best program in the country.  
+
+# Day 42 : Feburary 16, 2020
+
+**Today's Progress** : 
++ Spent 8 hours on Crio Launch & Computer Networks. 
++ Learned to use software Wireshark 
+
+**Thoughts** : Now, I don't think so I'll ever forget TCP/IP. 
