@@ -331,4 +331,13 @@
 + Spent 8 hours on Crio Launch & Computer Networks. 
 + Learned to use software Wireshark 
 
-**Thoughts** : Now, I don't think so I'll ever forget TCP/IP. 
+**Thoughts** : Now, I don't think so I'll ever forget TCP/IP.
+
+# Day 43 : Feburary 17, 2020
+
+**Today's Progress** : 
++ Started Attending 4 days workshop on Raspberry Pi. 
++ Spent time on Crio Launch. 
++ Started off my journey of Java. 
+
+**Thoughts** : II always forget to put semicolon. 
