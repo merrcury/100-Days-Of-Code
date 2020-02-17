@@ -1,4 +1,4 @@
-# 100 Days Of ML - LOG
+# 100 Days Of Code - LOG
 
 ## Day 0 : January 05, 2020
  
