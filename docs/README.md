@@ -350,3 +350,12 @@
 + Learned about basic sensor. 
 
 **Thoughts** : Raspberry Pi is amazing. 
+
+# Day 45 : Feburary 19, 2020
+
+**Today's Progress** : 
++ Again, It's all about Raspberry Pi Today. 
++ Sensor Interfacing - Temperature & Humidity Sensor (DHT11). 
++ PIR Sesnor, Object Detection using HC SR04. 
+
+**Thoughts** : I'm loving it. 
