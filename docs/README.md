@@ -340,4 +340,13 @@
 + Spent time on Crio Launch. 
 + Started off my journey of Java. 
 
-**Thoughts** : II always forget to put semicolon. 
+**Thoughts** : I always forget to put semicolon. 
+
+# Day 44 : Feburary 18, 2020
+
+**Today's Progress** : 
++ It's all about Raspberry Today. 
++ Interfacing LED, Controlling LED with switch, Interfacing Seven Segment Display. 
++ Learned about basic sensor. 
+
+**Thoughts** : Raspberry Pi is amazing. 
