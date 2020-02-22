@@ -359,3 +359,12 @@
 + PIR Sesnor, Object Detection using HC SR04. 
 
 **Thoughts** : I'm loving it. 
+
+# Day 46 : Feburary 20, 2020
+
+**Today's Progress** : 
++ RPi-GSM interfacing, Connecting Database with RPi. 
++ GPIO control over Web Browser. 
++ Communicating data using on-board module. 
+
+**Thoughts** : Let's RPi in our future projects. 
