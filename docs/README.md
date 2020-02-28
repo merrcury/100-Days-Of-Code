@@ -376,3 +376,11 @@
 ## Day 48 : Feburary 22, 2020
 
 **Today's Progress** : Organizations for GSoC got announced. So, I have started looking for the perfect fit an drafting purposal.
+
+## Day 49 : Feburary 23, 2020
+
+**Today's Progress** : 
++ Another Day Spent in working around Crio & GSoC list. 
++ I am half way down
++ Done with my Qualifier Round for InfyTQ Certification. 
+
