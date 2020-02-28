@@ -387,3 +387,9 @@
 ## Day 50 : Feburary 24, 2020
 
 **Today's Progress** : Applied to Accenture for Intern, last week & They want to proceed with it. So, Prepared for Next Round. 
+
+## Day 51 : Feburary 25, 2020
+
+**Today's Progress** : 
++ Done with First Round of Selection & They accepted my response for it and want to further proceed with it, Practiced for Next Round. 
++ Started DS & Algo for Hackwihinfy. 
