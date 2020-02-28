@@ -398,4 +398,10 @@
 
 **Today's Progress** : 
 + Prepared for Next Round. 
-+ Solved some more DS & Algo Questions. 
++ Solved some more DS & Algo Questions.
+
+## Day 53 : Feburary 27, 2020
+
+**Today's Progress** : 
++ Successfully completed next round. Nothing was there from preparation tasks.
++ I've kept my spere for DS & Algo. 
