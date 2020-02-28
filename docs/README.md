@@ -403,5 +403,10 @@
 ## Day 53 : Feburary 27, 2020
 
 **Today's Progress** : 
-+ Successfully completed next round. Nothing was there from preparation tasks.
++ Successfully completed next round. Nothing was there from preparation tasks & finger crossed for results. 
 + I've kept my spere for DS & Algo. 
+
+## Day 54 : Feburary 28, 2020
+
+**Today's Progress** : 
++ Again Kicked Off Crio Launch's Second Assignment & DS Algo.  
