@@ -384,3 +384,6 @@
 + I am half way down
 + Done with my Qualifier Round for InfyTQ Certification. 
 
+## Day 50 : Feburary 24, 2020
+
+**Today's Progress** : Applied to Accenture for Intern, last week & They want to proceed with it. So, Prepared for Next Round. 
