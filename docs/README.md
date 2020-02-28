@@ -317,7 +317,7 @@
 
 **Thoughts** : Workstation feels blazing fast. 
 
-# Day 41 : Feburary 15, 2020
+## Day 41 : Feburary 15, 2020
 
 **Today's Progress** : 
 + Day Started off with preparing resume at applying in an internship. 
@@ -325,7 +325,7 @@
 
 **Thoughts** : Crio Launch is one of best program in the country.  
 
-# Day 42 : Feburary 16, 2020
+## Day 42 : Feburary 16, 2020
 
 **Today's Progress** : 
 + Spent 8 hours on Crio Launch & Computer Networks. 
@@ -333,7 +333,7 @@
 
 **Thoughts** : Now, I don't think so I'll ever forget TCP/IP.
 
-# Day 43 : Feburary 17, 2020
+## Day 43 : Feburary 17, 2020
 
 **Today's Progress** : 
 + Started Attending 4 days workshop on Raspberry Pi. 
@@ -342,7 +342,7 @@
 
 **Thoughts** : I always forget to put semicolon. 
 
-# Day 44 : Feburary 18, 2020
+## Day 44 : Feburary 18, 2020
 
 **Today's Progress** : 
 + It's all about Raspberry Today. 
@@ -351,7 +351,7 @@
 
 **Thoughts** : Raspberry Pi is amazing. 
 
-# Day 45 : Feburary 19, 2020
+## Day 45 : Feburary 19, 2020
 
 **Today's Progress** : 
 + Again, It's all about Raspberry Pi Today. 
@@ -360,7 +360,7 @@
 
 **Thoughts** : I'm loving it. 
 
-# Day 46 : Feburary 20, 2020
+## Day 46 : Feburary 20, 2020
 
 **Today's Progress** : 
 + RPi-GSM interfacing, Connecting Database with RPi. 
@@ -368,3 +368,8 @@
 + Communicating data using on-board module. 
 
 **Thoughts** : Let's RPi in our future projects. 
+
+## Day 47 : Feburary 21, 2020
+
+**Today's Progress** : I worked on some Crio-Launch Assignment, haven't touched them from about a week. 
+ 
