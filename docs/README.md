@@ -393,3 +393,9 @@
 **Today's Progress** : 
 + Done with First Round of Selection & They accepted my response for it and want to further proceed with it, Practiced for Next Round. 
 + Started DS & Algo for Hackwihinfy. 
+
+## Day 52 : Feburary 26, 2020
+
+**Today's Progress** : 
++ Prepared for Next Round. 
++ Solved some more DS & Algo Questions. 
