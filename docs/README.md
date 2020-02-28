@@ -372,4 +372,7 @@
 ## Day 47 : Feburary 21, 2020
 
 **Today's Progress** : I worked on some Crio-Launch Assignment, haven't touched them from about a week. 
- 
+
+## Day 48 : Feburary 22, 2020
+
+**Today's Progress** : Organizations for GSoC got announced. So, I have started looking for the perfect fit an drafting purposal.
