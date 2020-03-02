@@ -414,3 +414,7 @@
 ## Day 55 : March 1, 2020
 
 **Today's Progress** : Spent time doing Java Problems. Jave is not me friendly. 
+
+## Day 56 : March 2, 2020
+
+**Today's Progress** : My interview test will have questions of DBMS and It's perfect time to revise the DBMS. I am using InfyTQ platform for practicing. 
