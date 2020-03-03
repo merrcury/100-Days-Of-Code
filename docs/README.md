@@ -418,3 +418,7 @@
 ## Day 56 : March 2, 2020
 
 **Today's Progress** : My interview test will have questions of DBMS and It's perfect time to revise the DBMS. I am using InfyTQ platform for practicing. 
+
+## Day 57 : March 3, 2020
+
+**Today's Progress** : Revisiting something is always fun. So is the DBMS. All the SQL feels fresh to me.  
