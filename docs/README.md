@@ -422,3 +422,9 @@
 ## Day 57 : March 3, 2020
 
 **Today's Progress** : Revisiting something is always fun. So is the DBMS. All the SQL feels fresh to me.  
+
+## Day 58 : March 4, 2020
+
+**Today's Progress** : 
++ We hosted a Microsoft Workshop Today. It felt amazing seeing such an enthusiastic crowd. 
++ Today's Day was all dedicated to web & Cloud(Azure).  
