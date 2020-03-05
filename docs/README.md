@@ -428,3 +428,10 @@
 **Today's Progress** : 
 + We hosted a Microsoft Workshop Today. It felt amazing seeing such an enthusiastic crowd. 
 + Today's Day was all dedicated to web & Cloud(Azure).  
+
+## Day 59 : March 5, 2020
+
+**Today's Progress** : 
++ Java is pain in a** But I have to deal with it. So, Practicing It. 
++ Learned a entirely new software called Raptor. It's help in verifying flowchart which is amazing. 
++ 60% Challenge Completed. 
