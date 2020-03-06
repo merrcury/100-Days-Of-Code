@@ -435,3 +435,10 @@
 + Java is pain in a** But I have to deal with it. So, Practicing It. 
 + Learned a entirely new software called Raptor. It's help in verifying flowchart which is amazing. 
 + 60% Challenge Completed. 
+
+## Day 60 : March 6, 2020
+
+**Today's Progress** : 
++ You have to get back to Machine Learnig & Here I am Learning DBSCAN Clustering and how to implement for SIH Project. 
++ & We are not selected for SIH but We gonna finish this up. 
+
