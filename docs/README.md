@@ -447,3 +447,9 @@
 **Today's Progress** : 
 + It's weekend and time to complete my session about Docker & Containers. 
 + I learned an interesting concept of Docker in Docker. It seems to be an important concept.  
+
+## Day 62 : March 8, 2020
+
+**Today's Progress** : 
++ I am exploring more use cases of Docker in Docker. 
++ I have start learning new clustering ML algorithm, Spectral Clustering. DBSCAN results are not very impressive. 
