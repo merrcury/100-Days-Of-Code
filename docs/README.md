@@ -453,3 +453,7 @@
 **Today's Progress** : 
 + I am exploring more use cases of Docker in Docker. 
 + I have start learning new clustering ML algorithm, Spectral Clustering. DBSCAN results are not very impressive. 
+
+## Day 63 : March 9, 2020
+
+**Today's Progress** : Results of Spectral are great but I am in search of better than that. I have started working on Hierarchical Clusterung.  
