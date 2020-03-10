@@ -457,3 +457,9 @@
 ## Day 63 : March 9, 2020
 
 **Today's Progress** : Results of Spectral are great but I am in search of better than that. I have started working on Hierarchical Clusterung.  
+
+## Day 64 : March 10, 2020
+
+**Today's Progress** :
++ Sattelite Images are too large & I am looking for visualizing technique. I have spent hours on dentogram but I have too much pixels to deal with. 
++ Hunt for perfect GSoC'20 Project Begins. 
