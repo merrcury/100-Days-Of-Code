@@ -463,3 +463,9 @@
 **Today's Progress** :
 + Sattelite Images are too large & I am looking for visualizing technique. I have spent hours on dentogram but I have too much pixels to deal with. 
 + Hunt for perfect GSoC'20 Project Begins. 
+
+## Day 65 : March 11, 2020
+
+**Today's Progress** :
++ Helped Someone Completing Data Science Assignment from Queensland University, Australia. 
++ Problems with Sattelite Image is increasing. I have started looking at options like QGIS & POwer-Bi. 
