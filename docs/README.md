@@ -208,13 +208,13 @@
 
 **Thoughts**: Every Hackathon is a new experience. 
 
-## Day 27 : Feburary 1, 2020
+## Day 27 : February 1, 2020
 
 **Today's Progress**: The Day of Hackathon is what I love. Cups of coffee is changed into code. Worked on the UI of the APP. 
 
 **Thoughts**: Hackathons are tiring and Day_0 of Hackathon comes to an end. 
 
-## Day 28 : Feburary 2, 2020
+## Day 28 : February 2, 2020
 
 **Today's Progress** : 
 + Unable to win the hackathon but very much delighted to placed in TOP 9 from 100 Teams and got appreciated by Representative from Mozilla.  
@@ -240,7 +240,7 @@
 
 **Thoughts**: Time to go back home. 
 
-## Day 31 : Feburary 5, 2020
+## Day 31 : February 5, 2020
 
 **Today's Progress** : 
 + Reached My College at about 3 AM in the morning. It's chilling outside. 
@@ -277,13 +277,13 @@
 
 **Thoughts**: VSFTPD stands for Very Secure File Transfer Protocol Deamon and I started loving it. 
 
-## Day 36 : Feburary 10, 2020
+## Day 36 : February 10, 2020
 
 **Today's Progress**: Today, I am officially starting my journey of learning RedHat 8. I have cleared my basic concepts of OS. 
 
 **Thoughts**: Although I use ubuntu, which is Debian based Linux. I always loved RedHat. I guess I'll be soon migrating to fedora. 
 
-## Day 37 : Feburary 11, 2020
+## Day 37 : February 11, 2020
 
 **Today's Progress** : 
 + Attended another lecture of Redhat. Learned how to write your own Linux commands. 
@@ -291,7 +291,7 @@
 
 **Thoughts**: Cookies manipulation is freaking amazing. 
 
-## Day 38 : Feburary 12, 2020
+## Day 38 : February 12, 2020
 
 **Today's Progress** : 
 + Attended another lecture of Redhat. Most of it was about networking.
@@ -299,7 +299,7 @@
 
 **Thoughts**: Redesigning something is tougher than first time implementation. 
 
-## Day 39 : Feburary 13, 2020
+## Day 39 : February 13, 2020
 
 **Today's Progress** : 
 + Attended another lecture of Redhat.
@@ -308,7 +308,7 @@
 
 **Thoughts**: It feels awesome after completing 40 Days. 
 
-## Day 40 : Feburary 14, 2020
+## Day 40 : February 14, 2020
 
 **Today's Progress** : 
 + Attended another lecture of Redhat.
@@ -317,7 +317,7 @@
 
 **Thoughts**: Workstation feels blazing fast. 
 
-## Day 41 : Feburary 15, 2020
+## Day 41 : February 15, 2020
 
 **Today's Progress** : 
 + Day Started off with preparing a resume at applying in an internship. 
@@ -325,7 +325,7 @@
 
 **Thoughts**: Crio Launch is one of the best programs in the country.  
 
-## Day 42 : Feburary 16, 2020
+## Day 42 : February 16, 2020
 
 **Today's Progress** : 
 + Spent 8 hours on Crio Launch & Computer Networks. 
@@ -333,7 +333,7 @@
 
 **Thoughts**: Now, I don't think so I'll ever forget TCP/IP.
 
-## Day 43 : Feburary 17, 2020
+## Day 43 : February 17, 2020
 
 **Today's Progress** : 
 + Started Attending 4 days workshop on Raspberry Pi. 
@@ -342,7 +342,7 @@
 
 **Thoughts**: I always forget to put a semicolon. 
 
-## Day 44 : Feburary 18, 2020
+## Day 44 : February 18, 2020
 
 **Today's Progress** : 
 + It's all about Raspberry Today. 
@@ -351,7 +351,7 @@
 
 **Thoughts**: Raspberry Pi is amazing. 
 
-## Day 45 : Feburary 19, 2020
+## Day 45 : February 19, 2020
 
 **Today's Progress** : 
 + Again, It's all about Raspberry Pi Today. 
@@ -360,7 +360,7 @@
 
 **Thoughts**: I'm loving it. 
 
-## Day 46 : Feburary 20, 2020
+## Day 46 : February 20, 2020
 
 **Today's Progress** : 
 + RPi-GSM interfacing, Connecting Database with RPi. 
@@ -369,44 +369,44 @@
 
 **Thoughts**: Let's RPi in our future projects. 
 
-## Day 47 : Feburary 21, 2020
+## Day 47 : February 21, 2020
 
 **Today's Progress**: I worked on some Crio-Launch Assignment, haven't touched them from about a week. 
 
-## Day 48 : Feburary 22, 2020
+## Day 48 : February 22, 2020
 
 **Today's Progress**: Organizations for GSoC got announced. So, I have started looking for the perfect fit a drafting proposal.
 
-## Day 49 : Feburary 23, 2020
+## Day 49 : February 23, 2020
 
 **Today's Progress** : 
 + Another Day Spent in working around Crio & GSoC list. 
 + I am halfway down
 + Done with my Qualifier Round for InfyTQ Certification. 
 
-## Day 50 : Feburary 24, 2020
+## Day 50 : February 24, 2020
 
 **Today's Progress**: Applied to Accenture for Intern, last week & They want to proceed with it. So, Prepared for Next Round. 
 
-## Day 51 : Feburary 25, 2020
+## Day 51 : February 25, 2020
 
 **Today's Progress** : 
 + Done with First Round of Selection & They accepted my response for it and want to further proceed with it, Practiced for Next Round. 
 + Started DS & Algo for Hackwihinfy. 
 
-## Day 52 : Feburary 26, 2020
+## Day 52 : February 26, 2020
 
 **Today's Progress** : 
 + Prepared for Next Round. 
 + Solved some more DS & Algo Questions.
 
-## Day 53 : Feburary 27, 2020
+## Day 53 : February 27, 2020
 
 **Today's Progress** : 
 + Successfully completed next round. Nothing was there from preparation tasks & finger crossed for results. 
 + I've kept my spere for DS & Algo. 
 
-## Day 54 : Feburary 28, 2020
+## Day 54 : February 28, 2020
 
 **Today's Progress** : 
 + Again Kicked Off Crio Launch's Second Assignment & DS Algo.  
