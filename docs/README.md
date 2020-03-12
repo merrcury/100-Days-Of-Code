@@ -469,3 +469,10 @@
 **Today's Progress** :
 + Helped Someone Completing Data Science Assignment from Queensland University, Australia. 
 + Problems with Sattelite Image is increasing. I have started looking at options like QGIS & POwer-Bi. 
+
+## Day 66 : March 12, 2020
+
+**Today's Progress** : 
++ I haven't done crio's assignment. So, I finally completed my assignment as per buffer.
++ I have also spend Designing Architecture for PS in Microsoft Open Source Hackathon. 
++ This week, I have improved DOC of many open-source libraries.  
