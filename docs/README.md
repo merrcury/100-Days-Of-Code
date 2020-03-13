@@ -476,3 +476,8 @@
 + I haven't done Crio's assignment. So, I finally completed my assignment as per buffer.
 + I have also spend Designing Architecture for PS in Microsoft Open Source Hackathon. 
 + This week, I have improved DOC of many open-source libraries.  
+
+## Day 67 : March 13, 2020
+**Today's Progress**:
++ Worked on Crio's QMoney
++ Worked on Crio's QPrep
