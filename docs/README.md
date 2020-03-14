@@ -481,3 +481,6 @@
 **Today's Progress**:
 + Worked on Crio's QMoney
 + Worked on Crio's QPrep
+
+## Day 68 : March 14, 2020
+**Today's Progress**: Got the full access of Crio's QPrep - PS1. Completed 3 Modules of Same.
