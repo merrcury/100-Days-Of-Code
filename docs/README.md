@@ -489,3 +489,8 @@
 **Today's Progress**: 
 + Microsoft Open Source Hackathon kicks off. 
 + Completed another two QPrep modules. 
+
+## Day 70 : March 16, 2020
+**Today's Progress**: 
++ Started Working on My GSoC Proposal of Submitty. 
++ Started learning SUMO for Microsoft Open Source Hackathon. 
