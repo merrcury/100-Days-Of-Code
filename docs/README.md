@@ -494,3 +494,8 @@
 **Today's Progress**: 
 + Started Working on My GSoC Proposal of Submitty. 
 + Started learning SUMO for Microsoft Open Source Hackathon. 
+
+## Day 71 : March 17, 2020
+**Today's Progress**: 
++ Created a Pull Request on MLContests. 
++ In Middle of learning SUMO Interfacing for Microsoft Open Source Hackathon. 
