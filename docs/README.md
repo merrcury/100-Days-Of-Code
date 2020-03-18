@@ -499,3 +499,6 @@
 **Today's Progress**: 
 + Created a Pull Request on MLContests. 
 + In Middle of learning SUMO Interfacing for Microsoft Open Source Hackathon. 
+
+## Day 72 : March 18, 2020
+**Today's Progress**: Moving Toward my GSoC Proposal created Pull Request in Submitty. 
