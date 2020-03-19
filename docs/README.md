@@ -502,3 +502,8 @@
 
 ## Day 72 : March 18, 2020
 **Today's Progress**: Moving Toward my GSoC Proposal created Pull Request in Submitty. 
+
+## Day 73 : March 19, 2020
+**Today's Progress**: 
++ Reviewed Some Pull Requests.
++ Started Implementation of Vehicle Detection Program in Microsoft OpenSource Hackathon.  
