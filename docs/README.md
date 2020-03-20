@@ -506,4 +506,10 @@
 ## Day 73 : March 19, 2020
 **Today's Progress**: 
 + Reviewed Some Pull Requests.
-+ Started Implementation of Vehicle Detection Program in Microsoft OpenSource Hackathon.  
++ Started Implementation of Vehicle Detection Program in Microsoft OpenSource Hackathon. 
+
+## Day 74 : March 20, 2020
+**Today's Progress**: 
++ Achievement Unlocked: 75% of 100 Days of Code Completed. 
++ Completed Implementation of Vehicle Detection Program in Microsoft OpenSource Hackathon. 
++ Started Implementation of Deep Reinforcement Learning. 
