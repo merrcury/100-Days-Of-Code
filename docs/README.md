@@ -513,3 +513,8 @@
 + Achievement Unlocked: 75% of 100 Days of Code Completed. 
 + Completed Implementation of Vehicle Detection Program in Microsoft OpenSource Hackathon. 
 + Started Implementation of Deep Reinforcement Learning. 
+
+## Day 75 : March 21, 2020
+**Today's Progress**:  
++ Completed Implementation of SUMO Intersection Integration in Python for Microsoft OpenSource Hackathon. 
++ Created an Issue in ReviewNB.  
