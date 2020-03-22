@@ -516,5 +516,11 @@
 
 ## Day 75 : March 21, 2020
 **Today's Progress**:  
-+ Completed Implementation of SUMO Intersection Integration in Python for Microsoft OpenSource Hackathon. 
++ Started Implementation of SUMO Intersection Integration in Python for Microsoft OpenSource Hackathon. 
++ Completed Implementation of Deep Reinforcement Learning Agent. 
 + Created an Issue in ReviewNB.  
+
+## Day 76 : March 22, 2020
+**Today's Progress**: 
++ Started Implementation of SUMO Intersection Integration in Python for Microsoft OpenSource Hackathon.
++ Working on GSoC Proposal. 
