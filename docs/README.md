@@ -524,3 +524,6 @@
 **Today's Progress**: 
 + Started Implementation of SUMO Intersection Integration in Python for Microsoft OpenSource Hackathon.
 + Working on GSoC Proposal. 
+
+## Day 77 : March 23, 2020
+**Today's Progress**: Spent Entire Day on completed Code, Documentation, Video for the Microsoft Open Source Hackathon. 
