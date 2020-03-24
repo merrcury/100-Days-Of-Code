@@ -527,3 +527,8 @@
 
 ## Day 77 : March 23, 2020
 **Today's Progress**: Spent Entire Day on completed Code, Documentation, Video for the Microsoft Open Source Hackathon. 
+
+## Day 78 : March 24, 2020
+**Today's Progress**: 
++ Completed Submission for Microsoft Open Source Hackathon. 
++ 70% GSoC Proposal Done. 
