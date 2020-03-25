@@ -532,3 +532,8 @@
 **Today's Progress**: 
 + Completed Submission for Microsoft Open Source Hackathon. 
 + 70% GSoC Proposal Done. 
+
+## Day 79 : March 25, 2020
+**Today's Progress**: 
++ Completed GSoC Proposal. 
++ Helped Couple of Persons in their code using VDI. 
