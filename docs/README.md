@@ -537,3 +537,8 @@
 **Today's Progress**: 
 + Completed GSoC Proposal. 
 + Helped Couple of Persons in their code using VDI. 
+
+## Day 80 : March 26, 2020
+**Today's Progress**: 
++ Got Review on GSoC Proposal from peers and submitted it.  
++ Completed Another 3 Modules of QPrep - PS1. 
