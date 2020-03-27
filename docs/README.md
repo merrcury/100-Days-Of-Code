@@ -542,3 +542,8 @@
 **Today's Progress**: 
 + Got Review on GSoC Proposal from peers and submitted it.  
 + Completed Another 3 Modules of QPrep - PS1. 
+
+## Day 81 : March 27, 2020
+**Today's Progress**:  
++ Completed Last 2 Modules of QPrep - PS1. 
++ Started Working on my first PIP Package. 
