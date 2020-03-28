@@ -547,3 +547,8 @@
 **Today's Progress**:  
 + Completed Last 2 Modules of QPrep - PS1. 
 + Started Working on my first PIP Package. 
+
+## Day 82 : March 28, 2020
+**Today's Progress**:  
++ Completed 1 Modules of Crio's QMoney. It was all about java and damn tough. 
++ Held an 1 hour online git tutorial on ZOOM. 
