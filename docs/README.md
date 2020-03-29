@@ -550,5 +550,8 @@
 
 ## Day 82 : March 28, 2020
 **Today's Progress**:  
-+ Completed 1 Modules of Crio's QMoney. It was all about java and damn tough. 
++ Completed 1 Module of Crio's QMoney. It was all about java and damn tough. 
 + Held an 1 hour online git tutorial on ZOOM. 
+
+## Day 83 : March 29, 2020
+**Today's Progress**: Completed 3rd Module of Crio's QMoney. It was all about java again and damn tough. 
