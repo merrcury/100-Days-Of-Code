@@ -555,3 +555,6 @@
 
 ## Day 83 : March 29, 2020
 **Today's Progress**: Completed 3rd Module of Crio's QMoney. It was all about java again and damn tough. 
+
+## Day 84 : March 30, 2020
+**Today's Progress**: Spent my time with java for acing the next module of Crio's QMoney. 
