@@ -563,3 +563,9 @@
 **Today's Progress**: 
 + Created and Corrected LICENSE File of My Projects. 
 + Started Learning Designing of a Compiler.  
+
+## Day 86 : April 1, 2020
+**Today's Progress**: 
++ Had another 2 Hour live Git & Github tutorial. 
++ Completed Module 4 of Crio Launch. 
+  
