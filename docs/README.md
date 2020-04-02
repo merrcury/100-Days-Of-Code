@@ -569,3 +569,8 @@
 + Had another 2 Hour live Git & Github tutorial. 
 + Completed Module 4 of Crio Launch. 
   
+## Day 87 : April 2, 2020
+**Today's Progress**: 
++ Had another 2 Hour live Git & Github tutorial. 
++ Managed some pull requests. 
+  
