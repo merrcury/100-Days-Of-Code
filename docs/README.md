@@ -574,3 +574,5 @@
 + Had another 2 Hour live Git & Github tutorial. 
 + Managed some pull requests. 
   
+## Day 88 : April 3, 2020
+**Today's Progress**: Completed QMoney and learned a lot about gradle. 
