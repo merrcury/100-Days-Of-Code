@@ -576,3 +576,8 @@
   
 ## Day 88 : April 3, 2020
 **Today's Progress**: Completed QMoney and learned a lot about gradle. 
+
+## Day 89 : April 4, 2020
+**Today's Progress**: 
++ Had another 2 Hour live Git & Github tutorial. 
++ Continuing Compiler Design. 
