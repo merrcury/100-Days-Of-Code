@@ -581,3 +581,6 @@
 **Today's Progress**: 
 + Had another 2 Hour live Git & Github tutorial. 
 + Continuing Compiler Design. 
+
+## Day 90 : April 5, 2020
+**Today's Progress**: Had last 2 Hour live Git & Github tutorial. Discussed Open Source Contribution & Stuff. 
