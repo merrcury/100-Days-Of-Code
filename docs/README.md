@@ -584,3 +584,8 @@
 
 ## Day 90 : April 5, 2020
 **Today's Progress**: Had last 2 Hour live Git & Github tutorial. Discussed Open Source Contribution & Stuff. 
+
+## Day 91 : April 6, 2020
+**Today's Progress**: 
++ Opened One Pull Request in Crio. 
++ Continuing Compiler Design. 
