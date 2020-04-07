@@ -589,3 +589,6 @@
 **Today's Progress**: 
 + Opened One Pull Request in Crio. 
 + Continuing Compiler Design. 
+
+## Day 92 : April 7, 2020
+**Today's Progress**: Held a session on Cloud Develop & deply. How to use pipelines and Github Action? & Talked about various things. 
