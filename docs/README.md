@@ -595,3 +595,8 @@
 
 ## Day 93 : April 8, 2020
 **Today's Progress**: Building out partial feature for treon. Spent hours on R & D. 
+
+## Day 94 : April 9, 2020
+**Today's Progress**: 
++ Working on treon. 
++ After Scikit leran & H20 starting my journey of tensorflow. 
