@@ -600,3 +600,6 @@
 **Today's Progress**: 
 + Working on treon. 
 + After Scikit leran & H20 starting my journey of tensorflow. 
+
+## Day 95 : April 10, 2020
+**Today's Progress**: Completed GCP Quests of Essential Knowledge. 
