@@ -603,3 +603,8 @@
 
 ## Day 95 : April 10, 2020
 **Today's Progress**: Completed GCP Quests of Essential Knowledge. 
+
+## Day 96 : April 11, 2020
+**Today's Progress**: 
++ Started DevOps Quest of GCP. 
++ Studying TF more deeply.  
