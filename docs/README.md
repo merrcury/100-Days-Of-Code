@@ -607,4 +607,7 @@
 ## Day 96 : April 11, 2020
 **Today's Progress**: 
 + Started DevOps Quest of GCP. 
-+ Studying TF more deeply.  
++ Studying TF more deeply. 
+
+## Day 97 : April 12, 2020
+**Today's Progress**: Strengthening my knowledge of GCP Command Line over console & tensorflow. 
