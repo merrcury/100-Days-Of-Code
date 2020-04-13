@@ -611,3 +611,6 @@
 
 ## Day 97 : April 12, 2020
 **Today's Progress**: Strengthening my knowledge of GCP Command Line over console & tensorflow. 
+
+## Day 98 : April 13, 2020
+**Today's Progress**: Learning about NGNIX(for GCP DevOps) & TF.
