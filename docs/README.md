@@ -614,3 +614,8 @@
 
 ## Day 98 : April 13, 2020
 **Today's Progress**: Learning about NGNIX(for GCP DevOps) & TF.
+
+## Day 99 : April 14, 2020
+**Today's Progress**: 
++ Suspected some functionality Issues with ReviewNB, Opened an Issue. 
++ Discussed about treon with his developer. 
